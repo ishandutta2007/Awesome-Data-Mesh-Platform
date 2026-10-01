@@ -56,7 +56,7 @@ The SaaS Data Mesh market includes enterprise platform providers evaluated below
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-Below is the curated list of key open-source building blocks underpinning modern self-serve data mesh architectures, sorted by GitHub star count:
+Below is the curated list of key open-source building blocks underpinning modern self-serve data mesh architectures, sorted by GitHub Stars_Count:
 
 * **[Trino](https://github.com/trinodb/trino)** [<img src="https://img.shields.io/github/stars/trinodb/trino?style=social&color=white" alt="Trino Stars"/>](https://github.com/trinodb/trino/stargazers) ⚡  
   *High-performance distributed SQL query engine for federated querying across distributed domain data sources without central data movement.*
@@ -133,3 +133,12 @@ If you find this Data Mesh ecosystem reference helpful in your platform engineer
 
 - This repository is a **community-curated compilation** for informational purposes and does not constitute formal technical architectural endorsement.
 - Data Mesh is primarily an **organizational operating model**; software tooling enables self-serve capabilities but requires organizational commitment to succeed.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Data-Mesh-Platform&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Data-Mesh-Platform_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Data-Mesh-Platform_growth.svg">
+  </picture>
+</a>
